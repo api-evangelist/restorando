@@ -26,7 +26,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-detail: 'restorando.com 301-redirects to thefork.es (TheFork / TripAdvisor); no independent API surface'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
