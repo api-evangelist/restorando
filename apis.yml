@@ -65,3 +65,9 @@ x-enrichment:
   status: nochange
   artifacts_added: 0
   pass: local-v1
+common:
+- type: ParentCompany
+  url: https://apis.io/providers/tripadvisor/
+  name: TripAdvisor
+  x-relationship: acquired
+  x-evidence: "Restorando was a Latin American online restaurant-reservation platform (Argentina, Brazil, Chile, Mexico, and other markets), originally backed by Emergence Capital and later acquired by TripAdvisor. The Restorando brand has since been abso"
