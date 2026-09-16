@@ -36,10 +36,11 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
-x-status-detail: 'restorando.com 301-redirects to thefork.es (TheFork / TripAdvisor); no independent API surface'
+x-status-detail: restorando.com 301-redirects to thefork.es (TheFork / TripAdvisor); no independent API
+  surface
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 tags:
 - Company
 - Consumer
@@ -47,6 +48,7 @@ tags:
 - Reservations
 - Latin America
 - Dining
+- Defunct
 tags_raw:
 - Company
 - Consumer
@@ -70,4 +72,6 @@ common:
   url: https://apis.io/providers/tripadvisor/
   name: TripAdvisor
   x-relationship: acquired
-  x-evidence: "Restorando was a Latin American online restaurant-reservation platform (Argentina, Brazil, Chile, Mexico, and other markets), originally backed by Emergence Capital and later acquired by TripAdvisor. The Restorando brand has since been abso"
+  x-evidence: Restorando was a Latin American online restaurant-reservation platform (Argentina, Brazil,
+    Chile, Mexico, and other markets), originally backed by Emergence Capital and later acquired by TripAdvisor.
+    The Restorando brand has since been abso
